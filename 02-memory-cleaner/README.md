@@ -1,9 +1,20 @@
 # 内存清理程序
 
-![](./pto-structure.png)
-![](./demo.gif)
-![](./layout-land.png)
+## v1
 
+介绍： http://www.jianshu.com/p/5ea7081a6818 
+
+![](./v1-pro-structure.png)
+
+![](./v1-demo.gif)
+
+![](./v1-layout-land.png)
+
+## v2
+
+![](./v2-pro-structure.png)
+
+![](./v2-demo.gif)
 
 ## 获取内存使用情况
 
