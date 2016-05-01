@@ -26,6 +26,13 @@
 
 ![](./v3-demo.gif)
 
+## v3
+
+介绍: http://www.jianshu.com/p/f99fc6394aee
+
+![](./v4-demo.gif)
+
+
 
 
 ## 获取内存使用情况
