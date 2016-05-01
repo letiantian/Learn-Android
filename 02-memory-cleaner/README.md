@@ -12,9 +12,21 @@
 
 ## v2
 
+介绍：http://www.jianshu.com/p/3f0cffca9758
+
 ![](./v2-pro-structure.png)
 
 ![](./v2-demo.gif)
+
+## v3
+
+介绍: http://www.jianshu.com/p/49bae726bf6a
+
+![](./v3-pro-structure.png)
+
+![](./v3-demo.gif)
+
+
 
 ## 获取内存使用情况
 
