@@ -5,16 +5,18 @@ https://github.com/liaohuqiu/android-UCToast
 
 ## 相关博客
 [Android无需权限显示悬浮窗, 兼谈逆向分析app](http://www.jianshu.com/p/167fd5f47d5c)
+
 [Android 悬浮窗的小结](http://www.liaohuqiu.net/cn/posts/android-windows-manager/)
 
 ## 效果
 
 ![](./android-UCToast/art/uc-toast.gif)
 
-<img src="./android-UCToast/art/uc-toast.gif" style="width: 300px;"/>
+<img src="./android-UCToast/art/uc-toast.gif" width="300px"/>
 
 ## 源码结构
 ![](./ps1.png)
+
 ![](./ps2.png)
 
 ## 设计与实现
