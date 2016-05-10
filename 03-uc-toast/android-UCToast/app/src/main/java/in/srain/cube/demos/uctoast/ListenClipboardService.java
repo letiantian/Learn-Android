@@ -86,7 +86,7 @@ public final class ListenClipboardService extends Service implements TipViewCont
                 BootCompletedReceiver.completeWakefulIntent(intent);  // 释放wakelock
             }
             String cmd = intent.getStringExtra(KEY_FOR_CMD);
-            if (!TextUtils.isEmpty(cmd)) {
+            if (!TextUtils.isEmpty(cmd)) {      // 这段代码就是测试着玩的
                 if (cmd.equals(CMD_TEST)) {
                     String content = intent.getStringExtra(KEY_FOR_CONTENT);
                     showContent(content);
