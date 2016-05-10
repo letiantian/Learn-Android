@@ -10,8 +10,6 @@ https://github.com/liaohuqiu/android-UCToast
 
 ## 效果
 
-![](./android-UCToast/art/uc-toast.gif)
-
 <img src="./android-UCToast/art/uc-toast.gif" width="300px"/>
 
 ## 源码结构
