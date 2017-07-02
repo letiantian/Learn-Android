@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageLoaderDemo</string>
+    <string name="button_image_list">ListView</string>
+    <string name="button_image_grid">GridView</string>
+    <string name="button_image_pager">ViewPager</string>
+    <string name="button_image_gallery">Gallery</string>
+    <string name="button_clear_memory">ClearMemoryCache</string>
+    <string name="button_clear_disk">ClearDiskCache</string>
+    <string name="button_get_memory">GetMemoryCache</string>
+    <string name="button_get_disk">GetDiskCache</string>
+   
+    <string name="descr_image">Image</string>
+    <string name="content_tv">beautiful</string>
+
+</resources>

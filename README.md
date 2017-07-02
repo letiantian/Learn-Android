@@ -5,3 +5,5 @@
 * [003：源码阅读：UCToast（监听剪切板的悬浮窗）](./003-uc-toast)
 * [004：源码阅读：ColorArt](./004-ColorArt)
 * [005：滑动菜单](./005-sliding-menu)
+* [006：Universal Image Loader](./006-uil-demo)
+* [007：动态grid](./007-dynamicgrid)
